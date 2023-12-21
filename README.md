@@ -42,7 +42,6 @@ eHealth Acadamy capstone project
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 This project is a personal portfolio website design as a capstone project for eHA Academy. Building this website has opened me up to lots of possibility in the world of front end development. I have been be able to learn how to use Bootstrap framework library and other libraries.
 My CSS styling have improved a great deal also mh research ability was strengthened.
 
