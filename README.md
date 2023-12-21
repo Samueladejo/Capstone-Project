@@ -3,7 +3,7 @@ eHealth Acadamy capstone project
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{eHA Academy Capstone project (Personal Portfolio Website) }</h1>
 
 <div align="center">
    Solution for <a href="https://academy.ehealthafrica.org/" target="_blank">eHA Academy</a>.
@@ -30,7 +30,7 @@ eHealth Acadamy capstone project
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -43,11 +43,8 @@ eHealth Acadamy capstone project
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project is a personal portfolio website design as a capstone project for eHA Academy. Building this website has opened me up to lots of possibility in the world of front end development. I have been be able to learn how to use Bootstrap framework library and other libraries.
+My CSS styling have improved a great deal also mh research ability was strengthened.
 
 ### Built With
 
@@ -56,6 +53,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [HTML](#)
 - [CSS](#)
 - [JavaScript](#)
+- [Bootstrap] (#).
 
 ## Features
 
@@ -67,7 +65,7 @@ This site was created as a submission to a [eHA Academy](https://academy.ehealth
 
 <!-- Example: -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and any text editor [vscode](https://code.visualstudio.com/) is highly recommended head over the above link to download for your operating system.
+To clone and run this application, you'll need [Git](https://git-scm.com) and any text editor [vscode](https://code.vsstudio.com/) is highly recommended head over the above link to download for your operating system.
 
 ```bash
 # Clone this repository
@@ -82,7 +80,7 @@ $ code .
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+During the course of building this website, i have been able to use bootstrap framework, CDN jQuery and shecodes website.
 
 - The figma design to replicate with only HTML and CSS [Project one](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=3%3A2&mode=design&t=cKiQUcOwtNrGoRWA-1), [Project two](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=506%3A6346&mode=design&t=cKiQUcOwtNrGoRWA-1), or [Project three](https://www.google.com/url?q=https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type%3Ddesign%26node-id%3D506%253A3558%26mode%3Ddesign%26t%3DcKiQUcOwtNrGoRWA-1&sa=D&source=editors&ust=1701438224537401&usg=AOvVaw1VXnlI9JvscxWoXvIn4Kqm).
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
