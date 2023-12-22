@@ -1,4 +1,4 @@
-![Screenshot (34)](https://github.com/Samueladejo/Capstone-Project/assets/143835433/e02be1d5-a860-4315-941b-2f950b826ee7)# Capstone-Project
+ ![Screenshot (34)](https://github.com/Samueladejo/Capstone-Project/assets/143835433/e02be1d5-a860-4315-941b-2f950b826ee7)# Capstone-Project
 eHealth Acadamy capstone project
 
 <!-- Please update value in the {}  -->
@@ -93,5 +93,5 @@ I want to also appreciate eHA academy team and especially my mentor Saheed and D
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://{github.com/Samueladejo})
+- Twitter [@your-twitter](https://{twitter.com/adejosam23})
