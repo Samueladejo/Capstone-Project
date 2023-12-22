@@ -4,23 +4,33 @@ function clickFunc(){
 	window.location.href="http://www.facebook.com";
 }
 
-var newEl = document.getElementById("CTA1");
+const slides = document.querySelectorAll('.slide');
+let index = 0;
 
-/*
-var slides =  document.querySelectorAll(".slide");
-var btns = document.querySelectorAll(".button");
+function prevSlide(){
+    slides[index].classList.remove('active');
+    index--;
 
-let currentSlide = 1;
+    if(index < 0)
+        index = slides.length -1;
 
-//for image
-/*var manualNav = function(manual){
-	slides(manual).classList.add("active");
-	btns(manual).classList.add("active");
+    slides[index].classList.add('active');      
 }
 
-btns.forEach((button, i) => {
-	button.addEventListener("click", () => {
-		manualNav(i);
-		currentSlide = 1
-	})
-});*/
+document.querySelector('.prev').addEventListener('click', e => {
+    prevSlide();
+});
+
+function nextSlide(){
+    slides[index].classList.remove('active');
+    index++;
+
+    if(index > slides.length -1)
+        index = 0;
+
+    slides[index].classList.add('active');      
+}
+
+document.querySelector('.next').addEventListener('click', e => {
+    nextSlide();
+});

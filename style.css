@@ -86,8 +86,7 @@ body{
    
 }
 #nav{
-    top: 0;
-    background-color:;
+
     border-radius: 15px;
 }
 
@@ -101,7 +100,7 @@ nav{
     
 }
 
-.Avatar{
+.Avatar {
     vertical-align: middle;
     width: 60px;
     height: 60px;
@@ -111,13 +110,14 @@ nav{
     
 }
 
-.Avatar2{
+.Avatar2 {
     vertical-align: middle;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     float: left;
-    padding: 40px;
+    margin: auto;
+    margin-top: 30px;
 }
 
 .header li{
@@ -146,15 +146,26 @@ nav{
     color: white;
     padding: 10px;
     border-radius: 16px;
-    margin-top: 20px;
+    margin-top: 10px;
     justify-content: center;
-    align-items: center;  
+    align-items: center; 
+    margin-left:10;
+    font-family: inter;
+
 }
+
+.CTA:hover{
+    opacity: 70%;
+    transition: all 0.5 ease-in-out;
+    padding: 4px;
+    transition-duration: 0.5s;
+    
+}
+
 #CTA1{
     align-items: center;
     justify-content: center;
     vertical-align: middle;
-    width: fit-content;
 
 }
 .CTA h1{
@@ -198,13 +209,14 @@ nav{
     width:1440px;
     height: 866px;
     background-color: #E9F0EC;
-    text-align: ;
     margin: auto;
     padding: 10px;
     border-radius: 16px;
+    font-family: inter;
 }
 .skills h1, p{
     text-align: center;
+    font-family:inter;
 }
 
 .skills .row{
@@ -244,10 +256,30 @@ nav{
     padding: 20px;
     margin: auto;
 }
-.card1{
-    margin-right: ;
-    background-color: ;
 
+#myCarousel{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: auto;
+
+}
+
+.container4{
+    position: relative;
+    width: 1320px;
+    height: 850px;
+    background: #dddede;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .projects{
     width: 1440px;
@@ -278,8 +310,19 @@ nav{
 
 }
 
+#rec a{
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+
 #btn a{
     text-decoration: none;
+    color: #0a3e21;
+    font-family: inter;
+    font-weight: 50px;
 }
 #btn:hover{
     color: #0a3e21;
@@ -311,13 +354,19 @@ nav{
     height: 300px;
 }
 
+.footer-container a{
+    text-decoration: none;
+    color: #121314;
+}
 
 .footer-container h3{
-    padding-top: 47;
+    padding-top: 50;
+    margin-left: 80px;
 }
 
 .footer-container p{
     text-align: left;
+    margin-left: 80px;
 }
 
 .footer-col{
@@ -355,16 +404,15 @@ nav{
     line-height: 40px;
     border-radius: 50%;
     color: white;
-    transition: all 0.2 ease;
     justify-content: center;
     align-items: center;
     text-decoration: none;
 }
-.footer-col .social-links a:hover{
+.social-links a:hover{
     color: #ffffff;
     background-color:#0a3e21;
-    padding: 5px;
-    transition: all 0.2s ease;
+    padding: 4px;
+    transition: all 0.2s ease-out;
 }
 
 .footer-col .social-links{
@@ -375,48 +423,13 @@ nav{
     padding-top: 20px;
 }
 
-/*slides animation */
-slider{
-    position: relative;
-    width: 1320px;
-    height: 850px;
-    background: #dddede;
-    display: flex;
-    margin: auto;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px;
-    overflow: hidden;
-    box-sizing: border-box;
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
 }
 
-slide{
-    position: absolute;
-    width: 100%; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-slider .slide img{
-    z-index: 1;
-    width: 800px;
-    height:500px;
-    border-radius: 5px;  
-}
-
-#Home{
-    scroll-behavior: smooth;
-}
-#About{
-    scroll-behavior: smooth;
-}
-#Projects{
-    scroll-behavior: smooth;
-}
-#Skills{
-    scroll-behavior: smooth;
-}
-#Contact{
-    scroll-behavior: smooth;
+.card .imgA{
+    margin-right: -11px;
+    margin-bottom: -300px;
 }
