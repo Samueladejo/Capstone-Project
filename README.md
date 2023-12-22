@@ -1,4 +1,4 @@
-# Capstone-Project
+![Screenshot (34)](https://github.com/Samueladejo/Capstone-Project/assets/143835433/e02be1d5-a860-4315-941b-2f950b826ee7)# Capstone-Project
 eHealth Acadamy capstone project
 
 <!-- Please update value in the {}  -->
@@ -38,9 +38,11 @@ eHealth Acadamy capstone project
 
 <!-- OVERVIEW -->
 
-## Overview
+## Overview!
+[Uploading Screenshot (34).png…]()
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
+
 
 This project is a personal portfolio website design as a capstone project for eHA Academy. Building this website has opened me up to lots of possibility in the world of front end development. I have been be able to learn how to use Bootstrap framework library and other libraries.
 My CSS styling have improved a great deal also mh research ability was strengthened.
@@ -80,6 +82,7 @@ $ code .
 ## Acknowledgements
 
 During the course of building this website, i have been able to use bootstrap framework, CDN jQuery and shecodes website.
+I want to also appreciate eHA academy team and especially my mentor Saheed and Daniel.
 
 - The figma design to replicate with only HTML and CSS [Project one](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=3%3A2&mode=design&t=cKiQUcOwtNrGoRWA-1), [Project two](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=506%3A6346&mode=design&t=cKiQUcOwtNrGoRWA-1), or [Project three](https://www.google.com/url?q=https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type%3Ddesign%26node-id%3D506%253A3558%26mode%3Ddesign%26t%3DcKiQUcOwtNrGoRWA-1&sa=D&source=editors&ust=1701438224537401&usg=AOvVaw1VXnlI9JvscxWoXvIn4Kqm).
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
